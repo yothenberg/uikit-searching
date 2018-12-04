@@ -1,0 +1,1 @@
+This is a small iOS app demonstrating a few different ways to implement a search feature with `UISearchController` and `UISearchBar`. It has an accompanying blog post [here](http://www.yothenberg.com/uikit-searching-with-uisearchcontroller-uisearchbar)
